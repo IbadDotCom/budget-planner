@@ -1,8 +1,10 @@
-# React + Vite
+Budget Planner App
+The Budget Planner App is a responsive front-end application built with ReactJS, Tailwind CSS, and Redux Toolkit. It helps users manage their finances by allowing them to add income and expenses, track their budget overview, and visualize expense breakdowns using interactive charts.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Key Features:
+Add and manage income and expenses seamlessly.
+View real-time budget calculations, including total income, total expenses, and remaining balance.
+Visualize expense categories with a dynamic chart.
+Data persistence using LocalStorage to save progress across sessions.
+Clear all data functionality to reset your budget plan.
+This app is entirely front-end focused and does not require a backend. It's designed to be lightweight, user-friendly, and adaptable for future enhancements.
