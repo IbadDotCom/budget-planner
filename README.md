@@ -1,4 +1,4 @@
-Budget Planner App
+<h2>Budget Planner App:<h2><br>
 The Budget Planner App is a responsive front-end application built with ReactJS, Tailwind CSS, and Redux Toolkit. It helps users manage their finances by allowing them to add income and expenses, track their budget overview, and visualize expense breakdowns using interactive charts.
 
 Key Features:
